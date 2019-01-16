@@ -32,7 +32,7 @@
 <a class="button" href="../bootstrap/index.php">bootstrap</a>
 <a class="button" href="../foundation/index.php">foundation</a>
 <a class="button" href="../page1/page1.html">ugly html</a>
-<a class="button" href="index.php">reload skeleton page</a>
+<a class="button" href="../960/demo.php">960</a>
 
 
 

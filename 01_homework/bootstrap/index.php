@@ -53,11 +53,10 @@
                         <ul>
                             <li class="active"><a href="index.php">bootstrap page</a></li>
                             <li><a href="../page1/page1.html">page 1</a></li>
-                            <li><a href="job-category.html">page 2</a></li>
-                            <li><a href="#">page 3</a></li>
-                            <li><a href="contact-us.html">page 4</a></li>
-                            <li><a href="#">page 5</a></li>
-                            
+                            <li><a href="../foundation/index.php">foundation</a></li>
+                            <li><a href="../skeleton/index.php">skeleton</a></li>
+                            <li><a href="../960/demo.php">960</a></li>
+                                   
                         </ul>
                     </div>
                 </div>
