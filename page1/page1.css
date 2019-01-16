@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+header {
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+nav {
+    height: 100px;
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+a {
+    color: red;
+    text-decoration: none;
+  }
+a.button {
+    font-size: 20px;
+    border: 1px solid;
+}
+.pSection {
+    color: yellow;
+}
+article {
+    margin-top: 10px;
+    color: red;
+    background-color: aqua;
+}
+h1 {
+    font-size: 40px;
+}
+footer {
+ background-color: blueviolet;
+ text-align: center;
+}
+h2 {
+    font-size: 40px;
+}
