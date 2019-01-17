@@ -85,8 +85,8 @@ $title = "Foundation title for IPA";
           <a href="index.php" class="success button">reload foundation</a><br/>
           <p><a href="../page1/page1.html" class="button">Page 1</a><br/>
           <a href="../bootstrap/index.php" class="success button">bootstrap</a><br/>
-          <a href="#" class="alert button">Alert Btn</a><br/>
-          <a href="#" class="secondary button">Secondary Btn</a></p>
+          <a href="../skeleton/index.php" class="alert button">skeleton</a><br/>
+          <a href="../960/demo.php" class="secondary button">960</a></p>
           <div class="callout">
             <h5>So many components, girl!</h5>
             <p>A whole kitchen sink of goodies comes with Foundation. Check out the docs to see them all, along with details on making them your own.</p>
